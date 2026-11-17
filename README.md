@@ -1,6 +1,6 @@
-# Rava: a pet-health iPhone app I built by directing AI
+# Rava: a pet-health iPhone app
 
-I'm Jackson Davis. I'm not a programmer. I designed, specified, tested and submitted a complete iPhone app by directing an AI (Claude) that wrote the code. This repository shows what I built and how I worked. The app's source code is private, so this is a showcase and not the codebase.
+I'm Jackson. I'm not a programmer. I designed, specified, tested and submitted a complete iPhone app by directing an AI (Claude) that wrote the code. This repository shows what I built and how I worked. The app's source code is private, so this is a showcase and not the codebase.
 
 ## What Rava is
 
